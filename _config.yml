@@ -1,0 +1,14 @@
+layout_spectrum: 0.9702128
+color:
+  saturation: 0.5969774
+  lightness: 0.8773123
+  brandStrength: 0.8957336
+  rhythmicContrast: 0.04380074
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+typography_spectrum: 0.3148936
+name: Who We Are
