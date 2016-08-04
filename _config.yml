@@ -12,15 +12,15 @@ collections:
       number: 10
 typography_spectrum: 0.3148936
 color:
-  saturation: 0.5969774
+  saturation: 1
   brandStrength: 0
-  lightness: 0.8773123
+  lightness: 0.5574468
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  rhythmicContrast: 0.04380074
+    - '#FFFFE9'
+    - '#BA88C5'
+    - '#21161C'
+    - '#823F37'
+    - '#5DCAE9'
+  rhythmicContrast: 1
 layout_spectrum: 0.9702128
 name: Who We Are
