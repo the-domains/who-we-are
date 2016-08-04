@@ -1,14 +1,26 @@
-layout_spectrum: 0.9702128
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.3148936
 color:
   saturation: 0.5969774
+  brandStrength: 0
   lightness: 0.8773123
-  brandStrength: 0.8957336
-  rhythmicContrast: 0.04380074
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-typography_spectrum: 0.3148936
+  rhythmicContrast: 0.04380074
+layout_spectrum: 0.9702128
 name: Who We Are
